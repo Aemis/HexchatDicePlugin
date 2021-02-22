@@ -9,8 +9,11 @@ To Hexchat program information and download: https://hexchat.github.io/
 ## How to install: 
 
 - Choose the script language that you want and make the pre-install requirements (read the docs)
+
   Javascript (windows & linux): https://github.com/TingPing/hexchat-javascript
+  
   Lua (windows): https://hexchat.readthedocs.io/en/latest/script_lua.html
+  
   Python (linux): https://hexchat.readthedocs.io/en/latest/script_python.html
   
   
