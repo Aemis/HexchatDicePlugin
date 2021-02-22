@@ -23,9 +23,9 @@ To Hexchat program information and download: https://hexchat.github.io/
 ## How to use 
 
 On IRC channel that you want use:
-   
+   ```bash
    /rola <number-of-dices> <size-of-dices> <changer-mod-value> <Character-RPG-name>
-  
+  ```
 The result will be something like:
 
  "Rolei 1d100 com mod(0) para Teste e os resultados foram [  94  + 0] = 94"
