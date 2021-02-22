@@ -24,7 +24,7 @@ To Hexchat program information and download: https://hexchat.github.io/
 
 On IRC channel that you want use:
    
-   /rola <number of dices> <size of dices> <changer/mod value> <Character RPG name>
+   /rola <number-of-dices> <size-of-dices> <changer-mod-value> <Character-RPG-name>
   
 The result will be something like:
 
