@@ -1,6 +1,6 @@
 # Hexchat - Dice Script
 
-Dice Script for Hexchat in Lua, Python and Javascript languages in portuguese (BR)
+Dice Script for Hexchat in Lua, Python and Javascript languages with result in portuguese (BR)
 
 I made this script to personal use to play RPG game on IRC program HexChat. 
 
@@ -24,7 +24,7 @@ To Hexchat program information and download: https://hexchat.github.io/
 
 On IRC channel that you want use:
    ```bash
-   /rola <number-of-dices> <size-of-dices> <changer-mod-value> <Character-RPG-name>
+   /rola <number-of-dices> <sides-of-dice> <changer-mod-value> <Character-RPG-name>
   ```
 The result will be something like:
 
